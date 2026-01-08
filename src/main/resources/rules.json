@@ -1,0 +1,22 @@
+[
+  {
+    "destinationCountry": "GERMANY",
+    "passportCountries": ["INDIA"],
+    "purpose": "TOURISM",
+    "maxStayDays": 90,
+    "visaRequired": true,
+    "visaType": "TOURIST",
+    "requiredDocuments": ["PASSPORT"],
+    "processingDays": 10
+  },
+  {
+    "destinationCountry": "GERMANY",
+    "passportCountries": ["INDIA"],
+    "purpose": "TOURISM",
+    "maxStayDays": 60,
+    "visaRequired": true,
+    "visaType": "TOURIST",
+    "requiredDocuments": ["PASSPORT", "FLIGHT_TICKET"],
+    "processingDays": 15
+  }
+]
